@@ -1,5 +1,5 @@
 * {
-    font-family: Didot;
+    font-family: Times New Roman;
 }
 
 /*@media print {
@@ -20,8 +20,8 @@ body {
 
 .top {
     grid-row-start: 1;
-    border: solid;
-    border-width: thin;
+/*    border: solid;
+    border-width: thin;*/
     background-color: rgb(70,70,70);
 }
 
@@ -46,6 +46,7 @@ body {
     margin-bottom: 0;
     font-weight: bold;
     border-bottom: solid;
+    border-width: thin;
     border-color: black;
     font-size: 25px;
     overflow: auto;
@@ -79,9 +80,9 @@ body {
 
 
 .BR {
-    border: solid;
+/*    border: solid;
     border-width: thin;
-    border-color: black;
+    border-color: black;*/
     background-color: rgb(220, 220, 220);
 }
 
@@ -95,13 +96,14 @@ body {
     margin-bottom: 0;
     font-weight: bold;
     border-bottom: solid;
+    border-width: thin;
     overflow: auto;
 }
 
 .right-header-class {
     padding-left: 10px;
     padding-right: 10px;
-    overflow: auto;O
+    overflow: auto;
 }
 
 .contact-subsection {

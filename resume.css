@@ -61,9 +61,13 @@ body {
 
 .activity-name {
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 2px;
     font-size: 15px;
     font-weight: bold;
+}
+
+.notbold {
+    font-weight: normal;
 }
 
 .date {
@@ -71,8 +75,12 @@ body {
     font-weight: normal;
 }
 
+.role {
+    font-size: 14px;
+}
+
 .activity-list {
-    margin-top: 5px;
+    margin-top: 3px;
     font-size: 15px;
 }
 
